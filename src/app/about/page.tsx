@@ -1,3 +1,7 @@
+export const metadata = {
+  title: "About Codevolution",
+};
+
 const About = () => {
   return <div>About</div>;
 };
